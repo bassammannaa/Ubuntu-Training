@@ -2,6 +2,7 @@
 
 ### Linux files System Hierarchy
 
+![vitalizations](https://github.com/bassammannaa/Ubuntu-Training/blob/master/Installing%20Ubuntu/whatisvirt21.jpg)
 
 
 <u>**" / "**</u> <u>**- Root point**</u><BR/>
