@@ -29,7 +29,7 @@ URL: https://www.virtualbox.org/wiki/Downloads
 
 ### What is vitalizations?
 
-![GitHub Logo](/images/logo.png)
+![vitalizations](https://github.com/bassammannaa/Ubuntu-Training/blob/master/Installing%20Ubuntu/whatisvirt21.jpg)
 
 
 ### Setup Ubuntu
