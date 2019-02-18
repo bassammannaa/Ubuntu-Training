@@ -4,7 +4,9 @@
 
 It is operation system that manage computer hardware and software resources and provides common services for computer programs.
 
-![](/home/bassam/Documents/Uuntu Course/Introduction/1200px-Operating_system_placement.svg.png)
+![](
+        Ubuntu-Training/Introduction/1200px-Operating_system_placement.svg.png
+      )
 
 
 
