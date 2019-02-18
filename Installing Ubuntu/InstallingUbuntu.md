@@ -27,7 +27,9 @@ LTS >> long-term support
 URL: https://www.virtualbox.org/wiki/Downloads
 
 
+### What is vitalizations?
 
+![GitHub Logo](/images/logo.png)
 
 
 ### Setup Ubuntu
