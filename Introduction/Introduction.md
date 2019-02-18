@@ -4,7 +4,7 @@
 
 It is operation system that manage computer hardware and software resources and provides common services for computer programs.
 
-![](
+![40*40](
         https://github.com/bassammannaa/Ubuntu-Training/blob/master/Introduction/1200px-Operating_system_placement.svg.png
       )
 
