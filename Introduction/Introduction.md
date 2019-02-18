@@ -71,17 +71,17 @@ but there is mismatch between those branches that allow you to decide which bran
 
 ### Linux Advantage & Disadvantage
 
-Advantage:
+## Advantage:
 
 Free (not all, Redhat support is not free) \ stable \ Easy to install \ Working with old PCs and also new PCs \ Less security risks \ many flavors (ubuntu is most beautiful and the best for desktop - redhat is the best choice for server) \ never become slow after use it for long time (not like windows) \  free software \ easy to install software.
 
-Disadvantage:
+## Disadvantage:
 
 Not east to learn \ most of windows softwares are not available in Linux but there is alternative softwares \ Technical support is limited.
 
 
 
-### Who Us Linux
+### Who Use Linux
 
 Google \ facebook \ Twitter \ NASA \ 99% web hosting companies are Linux
 
