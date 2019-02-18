@@ -4,7 +4,7 @@
 
 
 
-<u>**" / "**</u> <u>**- Root point**</u>
+<u>**" / "**</u> <u>**- Root point**</u><BR/>
 The /Root Directory, every single directory and file starts from the root directory .
 Only the root user has the ability to write under the root directory.
 
