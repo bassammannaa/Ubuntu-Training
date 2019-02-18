@@ -36,6 +36,9 @@ Today: 80% of web servers are Linux.
 
 Since Linux is open source and any one can copy the OS code and start his new OS branch, many Linux distributions start released to the market.
 
+![Linux Distributions](https://github.com/bassammannaa/Ubuntu-Training/blob/master/Introduction/Linux_Branches.jpg)
+
+
 Currently there is over 50 Linux branches are available in the market and the following are the famouse:
 
 1- Ubuntu
