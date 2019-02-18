@@ -2,9 +2,9 @@
 
 #### Table of contents:
 
-- [Introduction](Ubuntu-Training/Introduction/Introduction.md)
-- [Introduction]()
-- [Introduction]()
+- [Introduction](https://github.com/bassammannaa/Ubuntu-Training/blob/master/Introduction/Introduction.md)
+- [Installing Ubuntu]()
+- [Ubuntu Features]()
 - [Introduction]()
 - [Introduction]()
 - [Introduction]()
