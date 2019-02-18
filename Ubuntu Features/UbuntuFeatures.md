@@ -1,6 +1,6 @@
 # Ubuntu Features
 
-### Linux files System Hierarchy
+
 
 ![FileSystem](https://github.com/bassammannaa/Ubuntu-Training/blob/master/Ubuntu%20Features/FileSystem.png)
 
