@@ -5,7 +5,7 @@
 - [Introduction](https://github.com/bassammannaa/Ubuntu-Training/blob/master/Introduction/Introduction.md)
 - [Installing Ubuntu](https://github.com/bassammannaa/Ubuntu-Training/blob/master/Installing%20Ubuntu/InstallingUbuntu.md)
 - [Ubuntu Features](https://github.com/bassammannaa/Ubuntu-Training/blob/master/Ubuntu%20Features/UbuntuFeatures.md)
-- [Works with files and folders](folderAndFiles\filesAnd Folders.MD)
+- [Works with files and folders](/folderAndFiles/filesAndFolders.MD)
 - [Introduction]()
 - [Introduction]()
 - [Introduction]()
