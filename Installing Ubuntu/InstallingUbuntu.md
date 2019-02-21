@@ -27,9 +27,10 @@ LTS >> long-term support
 URL: https://www.virtualbox.org/wiki/Downloads
 
 
-### What is vitalizations?
+### What is virtualization?
 
-![vitalizations](https://github.com/bassammannaa/Ubuntu-Training/blob/master/Installing%20Ubuntu/whatisvirt21.jpg)
+![vitalizations](whatisvirt21.jpg)
+
 
 
 ### Setup Ubuntu
