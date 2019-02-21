@@ -3,7 +3,7 @@
 ### What is OS
 OS is the system that manage computer hardware and software resources and provides common services for computer programs.
 
-![OS](https://github.com/bassammannaa/Ubuntu-Training/blob/master/Introduction/1200px-Operating_system_placement.svg.png)
+![OS](1200px-Operating_system_placement.svg.png)
 
 
 ### What is Linux
@@ -36,7 +36,7 @@ Today: 80% of web servers are Linux.
 
 Since Linux is open source and any one can copy the OS code and start his new OS branch, many Linux distributions start released to the market.
 
-![Linux Distributions](https://github.com/bassammannaa/Ubuntu-Training/blob/master/Introduction/Linux_Branches.jpg)
+![Linux Distributions](Linux_Branches.jpg)
 
 
 Currently there is over 50 Linux branches are available in the market and the following are the famouse:
@@ -85,3 +85,4 @@ Not east to learn \ most of windows softwares are not available in Linux but the
 
 Google \ facebook \ Twitter \ NASA \ 99% web hosting companies are Linux
 
+[Back](../README.md)
