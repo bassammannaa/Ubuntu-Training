@@ -10,7 +10,7 @@
 
 4- [Works with files and folders](/FolderAndFiles/FilesAndFolders.MD)
 
-5- [Works with files and folders](/AdvancedCommands/AdvancedCommands.MD)
+5- [Advanced Commands](/AdvancedCommands/AdvancedCommands.MD)
 
 
 
