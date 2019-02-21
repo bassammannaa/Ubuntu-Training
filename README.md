@@ -2,14 +2,16 @@
 
 #### Table of contents:
 
-- [Introduction](https://github.com/bassammannaa/Ubuntu-Training/blob/master/Introduction/Introduction.md)
-- [Installing Ubuntu](https://github.com/bassammannaa/Ubuntu-Training/blob/master/Installing%20Ubuntu/InstallingUbuntu.md)
-- [Ubuntu Features](https://github.com/bassammannaa/Ubuntu-Training/blob/master/Ubuntu%20Features/UbuntuFeatures.md)
-- [Works with files and folders](/folderAndFiles/filesAndFolders.MD)
-- [Introduction]()
-- [Introduction]()
-- [Introduction]()
-- [Introduction]()
-- [Introduction]()
-- [Introduction]()
+1- [Introduction](https://github.com/bassammannaa/Ubuntu-Training/blob/master/Introduction/Introduction.md)
+
+2- [Installing Ubuntu](https://github.com/bassammannaa/Ubuntu-Training/blob/master/Installing%20Ubuntu/InstallingUbuntu.md)
+
+3- [Ubuntu Features](https://github.com/bassammannaa/Ubuntu-Training/blob/master/Ubuntu%20Features/UbuntuFeatures.md)
+
+4- [Works with files and folders](/FolderAndFiles/FilesAndFolders.MD)
+
+
+
+
+
 
