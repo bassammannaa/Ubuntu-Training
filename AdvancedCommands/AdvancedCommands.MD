@@ -8,7 +8,7 @@ ls -al >> results
 ~~~~
 
 ```
-* compres file
+* compress file
 * first create file "file1"
 touch file1
 
