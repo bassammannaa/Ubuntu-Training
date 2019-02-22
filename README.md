@@ -12,7 +12,7 @@
 
 5- [Advanced Commands](/AdvancedCommands/AdvancedCommands.MD)
 
-6- [Advanced Commands](/Security/Security.MD)
+6- [Security](/Security/Security.MD)
 
 
 
