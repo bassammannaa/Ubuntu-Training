@@ -46,3 +46,4 @@ sudo apt-get install gparted
 
 ```
 
+[Back](https://github.com/bassammannaa/Ubuntu-Training/blob/master/README.md)
