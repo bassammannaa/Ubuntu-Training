@@ -104,6 +104,20 @@ chmod 751 -R test_security/
 
 ```
 
+```
+* change the owner of specific file of folder 
+sudo chown username foldername Or filename
+
+* change the owner & group of specific file of folder 
+sudo chown username:groupname foldername or filename
+
+* change the owner of folder and its sub folders
+sudo chown -hR username foldername
+
+```
+
+
+
 [Back](https://github.com/bassammannaa/Ubuntu-Training/blob/master/README.md)
 
 
