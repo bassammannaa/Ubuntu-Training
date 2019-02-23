@@ -10,7 +10,7 @@
 
 4- [Works with files and folders](/FolderAndFiles/FilesAndFolders.MD)
 
-5- [Advanced Commands](/Compress/Compress.MD)
+5- [Compress Files](/Compress/Compress.MD)
 
 6- [Security](/Security/Security.MD)
 
