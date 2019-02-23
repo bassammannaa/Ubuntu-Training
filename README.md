@@ -14,6 +14,8 @@
 
 6- [Security](/Security/Security.MD)
 
+7- [Advanced Commands](/AdvancedCommands/AdvancedCommands.MD)
+
 
 
 
